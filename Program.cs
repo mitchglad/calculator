@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace calc
+namespace CoolCalc
 {
     class Program
     {
