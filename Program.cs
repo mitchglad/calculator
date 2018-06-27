@@ -7,6 +7,7 @@ namespace CoolCalc
         static void Main(string[] args)
         {
             Console.WriteLine("Calc V1");
+            Console.WriteLine("HELP");
         }
     }
 }
